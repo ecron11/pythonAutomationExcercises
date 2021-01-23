@@ -1,3 +1,5 @@
 # Hello! My name is Erik. 
 
-This is a simple excercise I used to learn some file IO operations with python. Thanks for checking it out.
+These are some excercises I did to learn different kinds of automation with python including:
+
+1. File IO (fileIO.py)
